@@ -1,0 +1,3 @@
+- hello, i’m SirInfinity (@SirInfinite)!
+- i’m currently learning C# coding, HTML coding, and unity gamemaking!
+- my discord is SirInfinity#0420
